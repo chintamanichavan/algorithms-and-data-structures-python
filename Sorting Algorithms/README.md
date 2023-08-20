@@ -1,3 +1,9 @@
+# Bubble Sort
 # Merge Sort
 # Quick Sort
-# Bubble Sort
+# Insertion Sort
+# Bucket Sort
+# Radix Sort
+# Selection Sort
+# Counting Sort
+# Heap Sort

@@ -31,5 +31,10 @@ def main():
     linked_list.append(3)
     linked_list.display()  # Output: 1 -> 2 -> 3 -> None
 
+
+
 if __name__ == '__main__':
     main()
+
+
+
