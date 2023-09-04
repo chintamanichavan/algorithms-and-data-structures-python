@@ -3,3 +3,4 @@
 - Singly
 - Doubly
 - Circular
+- Tortoise and Hare Algorithm
